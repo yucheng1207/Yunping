@@ -25,7 +25,7 @@
         "crypto": "^1.0.1",
         "js-sha512": "^0.8.0",
         "js-yaml": "^3.13.1",
-        "minimist": "^1.2.5",
+        "minimist": "^1.2.6",
         "mkdirp": "^1.0.3",
         "request": "^2.88.2",
         "request-promise": "^4.2.6",
