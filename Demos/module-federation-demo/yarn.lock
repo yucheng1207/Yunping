@@ -2910,9 +2910,9 @@ decamelize@^1.1.0, decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 dedent@^0.7.0:
   version "0.7.0"
@@ -8791,10 +8791,10 @@ webpack-merge@^5.7.3:
     clone-deep "^4.0.1"
     wildcard "^2.0.0"
 
-webpack-remote-types-plugin@0.2.7:
+webpack-remote-types-plugin@^0.2.7:
   version "0.2.7"
-  resolved "http://npm.meshkit.cn/webpack-remote-types-plugin/-/webpack-remote-types-plugin-0.2.7.tgz#91bf2daa0f2f624160887a6e6d40000cf184f07f"
-  integrity sha1-kb8tqg8vYkFgiHpubUAADPGE8H8=
+  resolved "https://registry.yarnpkg.com/webpack-remote-types-plugin/-/webpack-remote-types-plugin-0.2.7.tgz#91bf2daa0f2f624160887a6e6d40000cf184f07f"
+  integrity sha512-eum+7qom93X+Z6Jd/15kCzo9ek7bOMM3nuq4j/TF7ugTDVsyhbiav146arJIwlqzX/pDPa1Sz8kjcgoKgkgRCA==
   dependencies:
     fs-extra "^10.0.0"
     tar "^6.1.0"
