@@ -5651,9 +5651,9 @@ minimist-options@^3.0.1:
     is-plain-obj "^1.1.0"
 
 minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 minipass-collect@^1.0.2:
   version "1.0.2"
@@ -8791,10 +8791,10 @@ webpack-merge@^5.7.3:
     clone-deep "^4.0.1"
     wildcard "^2.0.0"
 
-webpack-remote-types-plugin@0.2.7:
+webpack-remote-types-plugin@^0.2.7:
   version "0.2.7"
-  resolved "http://npm.meshkit.cn/webpack-remote-types-plugin/-/webpack-remote-types-plugin-0.2.7.tgz#91bf2daa0f2f624160887a6e6d40000cf184f07f"
-  integrity sha1-kb8tqg8vYkFgiHpubUAADPGE8H8=
+  resolved "https://registry.yarnpkg.com/webpack-remote-types-plugin/-/webpack-remote-types-plugin-0.2.7.tgz#91bf2daa0f2f624160887a6e6d40000cf184f07f"
+  integrity sha512-eum+7qom93X+Z6Jd/15kCzo9ek7bOMM3nuq4j/TF7ugTDVsyhbiav146arJIwlqzX/pDPa1Sz8kjcgoKgkgRCA==
   dependencies:
     fs-extra "^10.0.0"
     tar "^6.1.0"
